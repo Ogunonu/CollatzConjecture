@@ -5,3 +5,4 @@ that big. It could be manually changed to long values to accomodate for bigger v
 exponentially. My observation of the current code is that it runs at roughly O(n^n) which will take too long at high n values.
 Later on im planning on implementing binary search and an algorithm to reduce the time-complexity to a best-case of O(logn) and worst-case of O(n^n) hopefully which
 will allow for faster and larger values to be evaluated.
+![collatz](https://user-images.githubusercontent.com/23423446/138004371-bcf23303-a9a3-4088-b39b-e1a9250603ef.PNG)
